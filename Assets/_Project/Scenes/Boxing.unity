@@ -1369,7 +1369,7 @@ GameObject:
   - component: {fileID: 688225492}
   m_Layer: 0
   m_Name: LeftGlove
-  m_TagString: LeftHand
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1921,7 +1921,7 @@ GameObject:
   - component: {fileID: 1075837199}
   m_Layer: 0
   m_Name: RightGlove
-  m_TagString: RightHand
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
